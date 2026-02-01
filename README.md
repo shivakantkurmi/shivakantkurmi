@@ -14,7 +14,6 @@
 <p align="left">
 <a href="https://codeforces.com/profile/shivakant_kurmi"><img src="https://cdn.iconscout.com/icon/free/png-256/free-codeforces-3629285-3031869.png"  height="30"/></a>
 <a href="https://www.linkedin.com/in/shivakant-kurmi-15339428a"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>
-<a href="https://instagram.com/its_me_s.k._2005"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/></a>
 <a href="https://www.hackerrank.com/shivakantkurmi49"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30"/></a>
 <a href="https://www.leetcode.com/shivakant_kurmi"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30"/></a>
 <a href="https://auth.geeksforgeeks.org/user/shivakant_kurmi_23bcg10140"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30"/></a>
